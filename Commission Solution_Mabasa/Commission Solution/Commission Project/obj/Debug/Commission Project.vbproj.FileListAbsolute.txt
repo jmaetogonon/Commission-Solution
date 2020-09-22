@@ -1,0 +1,12 @@
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\bin\Debug\Commission Project.exe.config
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\bin\Debug\Commission Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\bin\Debug\Commission Project.pdb
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\bin\Debug\Commission Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.vbprojAssemblyReference.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission_Project.frmMain.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission_Project.Resources.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.vbproj.GenerateResource.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.vbproj.CoreCompileInputs.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk5 pt4\Commission Solution\Commission Solution\Commission Project\obj\Debug\Commission Project.pdb
